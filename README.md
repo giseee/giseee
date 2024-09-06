@@ -1,22 +1,9 @@
-## Hi there 👋
+## Hola 👋
 
 <h1 align="center">Hola , me llamo Gisela Dos Santos <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
 <br>
-
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
-	<!---
-		<a href = "https://commits.top/egypt.html" target="_blank">
-			<img src="https://aktive.tk/egypt/7oSkaaa?color=red" alt="Most Active Users" target="_blank" height=25px, width=250px/> 
-		</a>
-	-->
-	<a href = "https://commits.top/egypt.html" target="_blank">
-		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="7oSkaaa" target="_blank" height=25px, width=250px/> 
-	</a>
-
-</p>
 
 	
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mi
@@ -24,11 +11,11 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
--:school: Soy un `estudiante de cuarto año` de [Licenciatura en Sistemas](https://www.info.unlp.edu.ar/licenciatura-en-sistemas/) en la [Universidad Nacional de La Plata](https://www.info.unlp.edu.ar/).
--:technologist: Me apasiona resolver problemas y enfrentar desafíos técnicos.
--:student: Actualmente estoy aprendiendo Inglés y haciendo la Certificación de `DH` de Professional Developer.
--:nerd_face: Siempre estoy en la búsqueda de nuevos conocimientos y habilidades.
--:thinking: Estoy abierto a nuevas oportunidades laborales.
+- :school: Soy un `estudiante de cuarto año` de [Licenciatura en Sistemas](https://www.info.unlp.edu.ar/licenciatura-en-sistemas/) en la [Universidad Nacional de La Plata](https://www.info.unlp.edu.ar/).
+- :technologist: Me apasiona resolver problemas y enfrentar desafíos técnicos.
+- :student: Actualmente estoy aprendiendo Inglés y haciendo la Certificación de `DH` de Professional Developer.
+- :nerd_face: Siempre estoy en la búsqueda de nuevos conocimientos y habilidades.
+- :thinking: Estoy abierto a nuevas oportunidades laborales.
 <br>
 
 
