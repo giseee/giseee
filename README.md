@@ -1,8 +1,10 @@
-## Hola 👋
-
-<h1 align="center">Hola , me llamo Gisela Dos Santos <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
+<h1 align="center">#Hola👋 , me llamo Gisela Dos Santos <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h3 align="center">Soy Analista Programador Universitario</h3>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src=""></a>
+</p>
 <br>
 
 	
@@ -11,7 +13,7 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
-- :school: Soy un `estudiante de cuarto año` de [Licenciatura en Sistemas](https://www.info.unlp.edu.ar/licenciatura-en-sistemas/) en la [Universidad Nacional de La Plata](https://www.info.unlp.edu.ar/).
+- :school: Soy una `estudiante`  de cuarto año de [Licenciatura en Sistemas](https://www.info.unlp.edu.ar/licenciatura-en-sistemas/) en la [Universidad Nacional de La Plata](https://www.info.unlp.edu.ar/).
 - :technologist: Me apasiona resolver problemas y enfrentar desafíos técnicos.
 - :student: Actualmente estoy aprendiendo Inglés y haciendo la Certificación de `DH` de Professional Developer.
 - :nerd_face: Siempre estoy en la búsqueda de nuevos conocimientos y habilidades.
@@ -19,7 +21,7 @@
 <br>
 
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Contáctame
+##Contáctame
 <p align="center">
 	<a href="mailto:gisee.cb@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/giseee"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -71,8 +73,6 @@
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/latex-%23008080.svg?&style=plastic&logo=latex&logoColor=white" /></a>
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/django-%23092E20.svg?&style=plastic&logo=django&logoColor=white" /></a>
   &emsp;
