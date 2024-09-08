@@ -12,9 +12,9 @@
 <br><br>
 - :school: Soy una `estudiante`  de cuarto año de [Licenciatura en Sistemas](https://www.info.unlp.edu.ar/licenciatura-en-sistemas/) en la [Universidad Nacional de La Plata](https://www.info.unlp.edu.ar/).
 - :technologist: Me apasiona resolver problemas y enfrentar desafíos técnicos.
-- :student: Actualmente estoy aprendiendo Inglés y haciendo la Certificación de `DH` de Professional Developer.
+- :student: Actualmente estoy aprendiendo Inglés y haciendo la Certificación de [`DH`](https://www.digitalhouse.com/ar/) de Professional Developer.
 - :nerd_face: Siempre estoy en la búsqueda de nuevos conocimientos y habilidades.
-- :thinking: Estoy abierto a nuevas oportunidades laborales.
+- :thinking: Estoy abierta a nuevas oportunidades laborales.
 <br>
 
 
